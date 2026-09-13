@@ -1,6 +1,6 @@
 # Materialien zum Bereich Codierung
 
-Unterrichtsmaterialien zu grundlegenden Konzepten der Informatik und Codierung. Die Materialien sind für Schülerinnen und Schüler konzipiert und behandeln verschiedene Zahlensysteme sowie die Grundlagen der Webentwicklung.
+Unterrichtsmaterialien zu grundlegenden Konzepten der Codierung. 
 
 ## 📋 Dateien in diesem Verzeichnis
 
